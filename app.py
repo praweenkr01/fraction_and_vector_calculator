@@ -3,6 +3,7 @@ from Api import func
 from DataType import Fraction
 from DataType import Vector
 
+url='https://github.com/praweenkr01/fraction_and_vector_calculator'
 st.markdown(f'''
 <a href={url}><button style="background-color:GreenYellow;">GitHub Link</button></a>
 ''',unsafe_allow_html=True)
