@@ -1,4 +1,4 @@
-[LINK TO PROJECT](https://praweenkr01-fraction-and-vector-calculator-app-zznuyt.streamlit.app/)
+[LINK TO PROJECT](https://praweenkr01-fraction-and-vector-calculator-app-o93ikf.streamlit.app/)
 
 # Fraction And Vector calculator.
 **Why Fraction??...bcz Fractions are more precise.**
