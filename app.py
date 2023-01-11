@@ -3,6 +3,10 @@ from Api import func
 from DataType import Fraction
 from DataType import Vector
 
+st.markdown(f'''
+<a href={url}><button style="background-color:GreenYellow;">GitHub Link</button></a>
+''',unsafe_allow_html=True)
+
 st.title('Fraction Calculator')
 oper=st.selectbox('Select Features to Check',['Arithematic Operation','Maximum','Minimum','Greatest common divisor','Least common multiple',
 'Are Like Fraction','Reciprocal'])
